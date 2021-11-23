@@ -16,3 +16,14 @@ body {
     background-color:  #DAF7A6  ;
     font-family: "Times New Roman";
     margin-left: 25px}
+
+#cabecerae{background-color: red;
+color:white;
+}
+
+#cuerpoe img{
+    display: block;
+    margin: auto;
+
+
+}
