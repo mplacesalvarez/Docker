@@ -12,10 +12,10 @@
 
 <div id="cuerpo">
 
+    <?php
 
-<p>Este es el contenido de mi página</p>
-    <img src="<?php echo get_stylesheet_directory_uri();?>/images/hola.gif">
-    <p>Ya no hay mas contenido</p>
+    echo "<h1>Hola Fancy</h1>"
+    ?>
 
 </div>
 
